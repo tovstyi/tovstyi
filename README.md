@@ -26,7 +26,7 @@ I'm a student of Kyiv Polytechnic Institute and I'm interested in developing stu
 
  ... some private projects and one of them below. At the moment there is only Flutter maybe I want to release it for the public soon.
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tovstyi&repo=filmsPetProject&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tovstyi&repo=films-pet-project&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🔨 Tools I use
 
