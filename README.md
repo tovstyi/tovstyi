@@ -3,7 +3,7 @@
 
 I'm a student of Kyiv Polytechnic Institute and I'm interested in developing stuff like mobile app design but also projects with microcontrollers like arduino and similar. I also develop console apps there are some projects below in my profile.
 ### About Me
-🔭 I’m currently working on my own pet-projects
+🔭 I’m currently working on my own pet-projects <br/>
 🌱 I’m currently learning flutter/dart, java, c++
 
 🎯 Where to find me:  
