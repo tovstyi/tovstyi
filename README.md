@@ -9,6 +9,7 @@ I'm a student of Kyiv Polytechnic Institute and I'm interested in developing stu
 🎯 Where to find me:  
 <a href="https://www.discord.com/users/802154856097644584/"><img src="https://img.shields.io/badge/TOVA%23tova777-1A1B27?style=flat-square&logo=discord"></a>
 <a href="https://www.linkedin.com/in/tovstyi-a/"><img src="https://img.shields.io/badge/Arkadiy Tovstyi-1A1B27?style=flat-square&logo=linkedin"></a>
+
 ### 🛠  Technologies and Tools
 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
@@ -20,11 +21,12 @@ I'm a student of Kyiv Polytechnic Institute and I'm interested in developing stu
 ![Intellij](https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellij-idea&logoColor=white&color=000000)
 ![Static Badge](https://img.shields.io/badge/Android_Studio-studio?logo=android-studio&color=black)
 ![Windows](https://img.shields.io/badge/-Windows-informational?style=flat-square&logo=windows&logoColor=white&color=00a8e8)
+
 ## 🔭 I’m currently working on
 
  ... some private projects and one of them below. At the moment there is only Flutter maybe I want to release it for the public soon.
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tovstyi&repo=filmsPetProject&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tovstyi&repo=filmsPetProject&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🔨 Tools I use
 
