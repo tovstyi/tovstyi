@@ -7,7 +7,7 @@ I'm a student of Kyiv Polytechnic Institute and I'm interested in developing stu
 🌱 I’m currently learning flutter/dart, java, c++
 
 🎯 Where to find me:  
-<a href="https://www.discord.com/users/802154856097644584/"><img src="https://img.shields.io/badge/TOVA%23tova777-1A1B27?style=flat-square&logo=discord"></a>
+<a href="https://www.discord.com/users/802154856097644584/"><img src="https://img.shields.io/badge/TOVA%23tova777-1A1B27?style=flat-square&logo=discord"></a><br/>
 <a href="https://www.linkedin.com/in/tovstyi-a/"><img src="https://img.shields.io/badge/Arkadiy Tovstyi-1A1B27?style=flat-square&logo=linkedin"></a>
 
 ### 🛠  Technologies and Tools
@@ -72,8 +72,6 @@ I'm a student of Kyiv Polytechnic Institute and I'm interested in developing stu
 
 ## 📈 Some Stats
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tovstyi&theme=tokyonight&layout=compact)
-<br>
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tovstyi&theme=tokyonight&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-<br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tovstyi&theme=tokyonight&layout=compact)<br/>
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tovstyi&theme=tokyonight&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)<br/>
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/6502fe7d3ee87ab4ca5454eb?variant=light)](https://roadmap.sh)
