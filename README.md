@@ -7,7 +7,7 @@ I'm a student of Kyiv Polytechnic Institute and I'm interested in developing stu
 🌱 I’m currently learning flutter/dart, java, c++
 
 🎯 Where to find me:  
-<a href="https://www.discord.com/users/802154856097644584"><img src="https://img.shields.io/badge/TOVA%23tova777-1A1B27?style=flat-square&logo=discord"></a><br>
+<a href="https://www.discord.com/users/802154856097644584/"><img src="https://img.shields.io/badge/TOVA%23tova777-1A1B27?style=flat-square&logo=discord"></a>
 <a href="https://www.linkedin.com/in/tovstyi-a/"><img src="https://img.shields.io/badge/Arkadiy Tovstyi-1A1B27?style=flat-square&logo=linkedin"></a>
 ### 🛠  Technologies and Tools
 
